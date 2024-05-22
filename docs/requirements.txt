@@ -14,7 +14,7 @@ pbr==5.1.1
 Pygments==2.3.0
 pythonz-bd==1.11.4
 pytz==2018.5
-requests==2.20.1
+requests==2.32.0
 resumable-urlretrieve==0.1.5
 six==1.11.0
 snowballstemmer==1.2.1
