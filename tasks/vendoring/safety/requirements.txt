@@ -23,7 +23,7 @@ importlib-metadata==1.6.0
 typing==3.7.4.1
 pathlib2==2.3.5
 importlib-resources==1.4.0
-zipp==1.2.0
+zipp==3.19.1
 contextlib2==0.6.0.post1
 enum34==1.1.10
 scandir==1.10.0
