@@ -27,3 +27,4 @@ zipp==1.2.0
 contextlib2==0.6.0.post1
 enum34==1.1.10
 scandir==1.10.0
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
