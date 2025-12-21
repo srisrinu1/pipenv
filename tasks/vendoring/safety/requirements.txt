@@ -7,7 +7,7 @@ requests==2.23.0
 idna==2.9
 pyparsing==2.4.7
 appdirs==1.4.3
-filelock==3.0.12
+filelock==3.20.1
 distlib==0.3.0
 certifi==2020.4.5.1
 click==7.1.1
